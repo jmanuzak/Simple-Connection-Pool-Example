@@ -1,0 +1,1 @@
+I wanted to know more about how connection pools tick, so I built one.  This is a very simple example of a database connection pool.  It includes unit tests and a clever (imho) mock interface for testing.
